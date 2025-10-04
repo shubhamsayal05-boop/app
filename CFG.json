@@ -1,0 +1,35 @@
+{
+  "cells": {
+    "A1": {
+      "value": "Chemin Bdd",
+      "formula": null,
+      "namedRange": null
+    },
+    "B1": {
+      "value": "C:\\Users\\ADMIN\\Downloads\\OneDrive_2025-08-11\\oDriv V28\\db",
+      "formula": null,
+      "namedRange": null
+    },
+    "A2": {
+      "value": "Chemin Log",
+      "formula": null,
+      "namedRange": null
+    },
+    "B2": {
+      "value": "C:\\Users\\ADMIN\\Downloads\\OneDrive_2025-08-11\\oDriv V28\\db",
+      "formula": null,
+      "namedRange": null
+    },
+    "A3": {
+      "value": " Année",
+      "formula": null,
+      "namedRange": null
+    },
+    "B3": {
+      "value": 2024,
+      "formula": null,
+      "namedRange": null
+    }
+  },
+  "charts": []
+}

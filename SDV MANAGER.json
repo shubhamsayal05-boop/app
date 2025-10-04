@@ -1,0 +1,1115 @@
+{
+  "cells": {
+    "A1": {
+      "value": "SDV",
+      "formula": null,
+      "namedRange": null
+    },
+    "B1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A2": {
+      "value": "Drive away",
+      "formula": null,
+      "namedRange": null
+    },
+    "B2": {
+      "value": "A",
+      "formula": null,
+      "namedRange": null
+    },
+    "C2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A3": {
+      "value": "Drive Away Creep Eng On",
+      "formula": null,
+      "namedRange": null
+    },
+    "B3": {
+      "value": "A.1",
+      "formula": null,
+      "namedRange": null
+    },
+    "C3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A4": {
+      "value": "Drive Away Creep Eng On - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B4": {
+      "value": "A.2",
+      "formula": null,
+      "namedRange": null
+    },
+    "C4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A5": {
+      "value": "Drive Away Creep Eng Off",
+      "formula": null,
+      "namedRange": null
+    },
+    "B5": {
+      "value": "A.3",
+      "formula": null,
+      "namedRange": null
+    },
+    "C5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A6": {
+      "value": "DASS Eng On",
+      "formula": null,
+      "namedRange": null
+    },
+    "B6": {
+      "value": "A.4",
+      "formula": null,
+      "namedRange": null
+    },
+    "C6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A7": {
+      "value": "DASS Eng On - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B7": {
+      "value": "A.5",
+      "formula": null,
+      "namedRange": null
+    },
+    "C7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A8": {
+      "value": "DASS Eng Off quick",
+      "formula": null,
+      "namedRange": null
+    },
+    "B8": {
+      "value": "A.6",
+      "formula": null,
+      "namedRange": null
+    },
+    "C8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A9": {
+      "value": "DASS Eng Off slow",
+      "formula": null,
+      "namedRange": null
+    },
+    "B9": {
+      "value": "A.7",
+      "formula": null,
+      "namedRange": null
+    },
+    "C9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A10": {
+      "value": "DASS - Eng Off - COM",
+      "formula": null,
+      "namedRange": null
+    },
+    "B10": {
+      "value": "A.8",
+      "formula": null,
+      "namedRange": null
+    },
+    "C10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A11": {
+      "value": "DASS - Extended Eng Off",
+      "formula": null,
+      "namedRange": null
+    },
+    "B11": {
+      "value": "A.9",
+      "formula": null,
+      "namedRange": null
+    },
+    "C11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A12": {
+      "value": "DA Rolling Start",
+      "formula": null,
+      "namedRange": null
+    },
+    "B12": {
+      "value": "A.10",
+      "formula": null,
+      "namedRange": null
+    },
+    "C12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A13": {
+      "value": "Drive away Creep",
+      "formula": null,
+      "namedRange": null
+    },
+    "B13": {
+      "value": "A.11",
+      "formula": null,
+      "namedRange": null
+    },
+    "C13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A14": {
+      "value": "DASS",
+      "formula": null,
+      "namedRange": null
+    },
+    "B14": {
+      "value": "A.12",
+      "formula": null,
+      "namedRange": null
+    },
+    "C14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A15": {
+      "value": "Accelerations",
+      "formula": null,
+      "namedRange": null
+    },
+    "B15": {
+      "value": "B",
+      "formula": null,
+      "namedRange": null
+    },
+    "C15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A16": {
+      "value": "Tip in At deceleration",
+      "formula": null,
+      "namedRange": null
+    },
+    "B16": {
+      "value": "B.1",
+      "formula": null,
+      "namedRange": null
+    },
+    "C16": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A17": {
+      "value": "Tip in At constant speed",
+      "formula": null,
+      "namedRange": null
+    },
+    "B17": {
+      "value": "B.2",
+      "formula": null,
+      "namedRange": null
+    },
+    "C17": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A18": {
+      "value": "Accel Cst Load",
+      "formula": null,
+      "namedRange": null
+    },
+    "B18": {
+      "value": "B.3",
+      "formula": null,
+      "namedRange": null
+    },
+    "C18": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A19": {
+      "value": "Accel Cst Load - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B19": {
+      "value": "B.4",
+      "formula": null,
+      "namedRange": null
+    },
+    "C19": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A20": {
+      "value": "Accel Load Increase",
+      "formula": null,
+      "namedRange": null
+    },
+    "B20": {
+      "value": "B.5",
+      "formula": null,
+      "namedRange": null
+    },
+    "C20": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A21": {
+      "value": "Accel Load Decrease",
+      "formula": null,
+      "namedRange": null
+    },
+    "B21": {
+      "value": "B.6",
+      "formula": null,
+      "namedRange": null
+    },
+    "C21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A22": {
+      "value": "Decelerations",
+      "formula": null,
+      "namedRange": null
+    },
+    "B22": {
+      "value": "C",
+      "formula": null,
+      "namedRange": null
+    },
+    "C22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A23": {
+      "value": "Tip out After acceleration",
+      "formula": null,
+      "namedRange": null
+    },
+    "B23": {
+      "value": "C.1",
+      "formula": null,
+      "namedRange": null
+    },
+    "C23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A24": {
+      "value": "Tip out At constant speed",
+      "formula": null,
+      "namedRange": null
+    },
+    "B24": {
+      "value": "C.2",
+      "formula": null,
+      "namedRange": null
+    },
+    "C24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A25": {
+      "value": "Decel Without Brake",
+      "formula": null,
+      "namedRange": null
+    },
+    "B25": {
+      "value": "C.3",
+      "formula": null,
+      "namedRange": null
+    },
+    "C25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A26": {
+      "value": "Decel Without Brake - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B26": {
+      "value": "C.4",
+      "formula": null,
+      "namedRange": null
+    },
+    "C26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A27": {
+      "value": "Decel Cst Brake",
+      "formula": null,
+      "namedRange": null
+    },
+    "B27": {
+      "value": "C.5",
+      "formula": null,
+      "namedRange": null
+    },
+    "C27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A28": {
+      "value": "Decel Cst Brake - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B28": {
+      "value": "C.6",
+      "formula": null,
+      "namedRange": null
+    },
+    "C28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A29": {
+      "value": "Decel Trans to Cst Spd",
+      "formula": null,
+      "namedRange": null
+    },
+    "B29": {
+      "value": "C.7",
+      "formula": null,
+      "namedRange": null
+    },
+    "C29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A30": {
+      "value": "Decel - Trans to Cst Spd - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B30": {
+      "value": "C.8",
+      "formula": null,
+      "namedRange": null
+    },
+    "C30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A31": {
+      "value": "Vehicle Stop",
+      "formula": null,
+      "namedRange": null
+    },
+    "B31": {
+      "value": "C.9",
+      "formula": null,
+      "namedRange": null
+    },
+    "C31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A32": {
+      "value": "Vehicle Stop - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B32": {
+      "value": "C.10",
+      "formula": null,
+      "namedRange": null
+    },
+    "C32": {
+      "value": ".",
+      "formula": null,
+      "namedRange": null
+    },
+    "A33": {
+      "value": "Constant Speeds",
+      "formula": null,
+      "namedRange": null
+    },
+    "B33": {
+      "value": "D",
+      "formula": null,
+      "namedRange": null
+    },
+    "C33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A34": {
+      "value": "Cst Speed Without Load",
+      "formula": null,
+      "namedRange": null
+    },
+    "B34": {
+      "value": "D.1",
+      "formula": null,
+      "namedRange": null
+    },
+    "C34": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A35": {
+      "value": "Cst Speed Without Load - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B35": {
+      "value": "D.2",
+      "formula": null,
+      "namedRange": null
+    },
+    "C35": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A36": {
+      "value": "Cst Speed Cst Load",
+      "formula": null,
+      "namedRange": null
+    },
+    "B36": {
+      "value": "D.3",
+      "formula": null,
+      "namedRange": null
+    },
+    "C36": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A37": {
+      "value": "Cst Speed Cst Load - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B37": {
+      "value": "D.4",
+      "formula": null,
+      "namedRange": null
+    },
+    "C37": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A38": {
+      "value": "Gearbox behaviour",
+      "formula": null,
+      "namedRange": null
+    },
+    "B38": {
+      "value": "E",
+      "formula": null,
+      "namedRange": null
+    },
+    "C38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A39": {
+      "value": "Power-on upshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B39": {
+      "value": "E.1",
+      "formula": null,
+      "namedRange": null
+    },
+    "C39": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A40": {
+      "value": "Power-on upshift Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B40": {
+      "value": "E.2",
+      "formula": null,
+      "namedRange": null
+    },
+    "C40": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A41": {
+      "value": "Coast - brake-on downshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B41": {
+      "value": "E.3",
+      "formula": null,
+      "namedRange": null
+    },
+    "C41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A42": {
+      "value": "Coast-brake-on downshift Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B42": {
+      "value": "E.4",
+      "formula": null,
+      "namedRange": null
+    },
+    "C42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A43": {
+      "value": "Tip out upshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B43": {
+      "value": "E.5",
+      "formula": null,
+      "namedRange": null
+    },
+    "C43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A44": {
+      "value": "Load reversal upshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B44": {
+      "value": "E.6",
+      "formula": null,
+      "namedRange": null
+    },
+    "C44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A45": {
+      "value": "Coast - brake-on upshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B45": {
+      "value": "E.7",
+      "formula": null,
+      "namedRange": null
+    },
+    "C45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A46": {
+      "value": "Power-on downshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B46": {
+      "value": "E.8",
+      "formula": null,
+      "namedRange": null
+    },
+    "C46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A47": {
+      "value": "(PT) KD - tip in downshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B47": {
+      "value": "E.9",
+      "formula": null,
+      "namedRange": null
+    },
+    "C47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A48": {
+      "value": "(TO) KD - tip in downshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B48": {
+      "value": "E.10",
+      "formula": null,
+      "namedRange": null
+    },
+    "C48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A49": {
+      "value": "Load reversal downshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B49": {
+      "value": "E.11",
+      "formula": null,
+      "namedRange": null
+    },
+    "C49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A50": {
+      "value": "Lever change",
+      "formula": null,
+      "namedRange": null
+    },
+    "B50": {
+      "value": "E.12",
+      "formula": null,
+      "namedRange": null
+    },
+    "C50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A51": {
+      "value": "Maneuvering",
+      "formula": null,
+      "namedRange": null
+    },
+    "B51": {
+      "value": "E.13",
+      "formula": null,
+      "namedRange": null
+    },
+    "C51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A52": {
+      "value": "Maneuvering - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B52": {
+      "value": "E.14",
+      "formula": null,
+      "namedRange": null
+    },
+    "C52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A53": {
+      "value": "Maneuvering with throttle",
+      "formula": null,
+      "namedRange": null
+    },
+    "B53": {
+      "value": "E.15",
+      "formula": null,
+      "namedRange": null
+    },
+    "C53": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A54": {
+      "value": "Converter controlled slip",
+      "formula": null,
+      "namedRange": null
+    },
+    "B54": {
+      "value": "E.16",
+      "formula": null,
+      "namedRange": null
+    },
+    "C54": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A55": {
+      "value": "Converter lock up",
+      "formula": null,
+      "namedRange": null
+    },
+    "B55": {
+      "value": "E.17",
+      "formula": null,
+      "namedRange": null
+    },
+    "C55": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A56": {
+      "value": "Converter release",
+      "formula": null,
+      "namedRange": null
+    },
+    "B56": {
+      "value": "E.18",
+      "formula": null,
+      "namedRange": null
+    },
+    "C56": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A57": {
+      "value": "Shift Abort",
+      "formula": null,
+      "namedRange": null
+    },
+    "B57": {
+      "value": "E.19",
+      "formula": null,
+      "namedRange": null
+    },
+    "C57": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A58": {
+      "value": "Sailing Exit",
+      "formula": null,
+      "namedRange": null
+    },
+    "B58": {
+      "value": "E.20",
+      "formula": null,
+      "namedRange": null
+    },
+    "C58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A59": {
+      "value": "Downshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B59": {
+      "value": "E.21",
+      "formula": null,
+      "namedRange": null
+    },
+    "C59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A60": {
+      "value": "Upshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "B60": {
+      "value": "E.22",
+      "formula": null,
+      "namedRange": null
+    },
+    "C60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A61": {
+      "value": "Engine behaviour",
+      "formula": null,
+      "namedRange": null
+    },
+    "B61": {
+      "value": "F",
+      "formula": null,
+      "namedRange": null
+    },
+    "C61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A62": {
+      "value": "Manual Start",
+      "formula": null,
+      "namedRange": null
+    },
+    "B62": {
+      "value": "F.1",
+      "formula": null,
+      "namedRange": null
+    },
+    "C62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A63": {
+      "value": "Manual Stop",
+      "formula": null,
+      "namedRange": null
+    },
+    "B63": {
+      "value": "F.2",
+      "formula": null,
+      "namedRange": null
+    },
+    "C63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A64": {
+      "value": "Auto start vehicle stationary",
+      "formula": null,
+      "namedRange": null
+    },
+    "B64": {
+      "value": "F.3",
+      "formula": null,
+      "namedRange": null
+    },
+    "C64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A65": {
+      "value": "Auto start vehicle moving",
+      "formula": null,
+      "namedRange": null
+    },
+    "B65": {
+      "value": "F.4",
+      "formula": null,
+      "namedRange": null
+    },
+    "C65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A66": {
+      "value": "Auto stop",
+      "formula": null,
+      "namedRange": null
+    },
+    "B66": {
+      "value": "F.5",
+      "formula": null,
+      "namedRange": null
+    },
+    "C66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A67": {
+      "value": "Idle Vehicle Stationary",
+      "formula": null,
+      "namedRange": null
+    },
+    "B67": {
+      "value": "F.6",
+      "formula": null,
+      "namedRange": null
+    },
+    "C67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A68": {
+      "value": "Idle Vehicle Stationary - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B68": {
+      "value": "F.7",
+      "formula": null,
+      "namedRange": null
+    },
+    "C68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A69": {
+      "value": "Idle Air Cond On-Off",
+      "formula": null,
+      "namedRange": null
+    },
+    "B69": {
+      "value": "F.8",
+      "formula": null,
+      "namedRange": null
+    },
+    "C69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A70": {
+      "value": "Idle Air Cond On-Off - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B70": {
+      "value": "F.9",
+      "formula": null,
+      "namedRange": null
+    },
+    "C70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A71": {
+      "value": "Cylinder Deactivation",
+      "formula": null,
+      "namedRange": null
+    },
+    "B71": {
+      "value": "F.10",
+      "formula": null,
+      "namedRange": null
+    },
+    "C71": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A72": {
+      "value": "Cylinder Deactivation - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B72": {
+      "value": "F.11",
+      "formula": null,
+      "namedRange": null
+    },
+    "C72": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A73": {
+      "value": "Cylinder reactivation",
+      "formula": null,
+      "namedRange": null
+    },
+    "B73": {
+      "value": "F.12",
+      "formula": null,
+      "namedRange": null
+    },
+    "C73": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A74": {
+      "value": "Cylinder reactivation - Cold",
+      "formula": null,
+      "namedRange": null
+    },
+    "B74": {
+      "value": "F.13",
+      "formula": null,
+      "namedRange": null
+    },
+    "C74": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    }
+  },
+  "charts": []
+}

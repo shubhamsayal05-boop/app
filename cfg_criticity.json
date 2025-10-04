@@ -1,0 +1,205 @@
+{
+  "cells": {
+    "A1": {
+      "value": "criticity",
+      "formula": null,
+      "namedRange": null
+    },
+    "B1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C1": {
+      "value": "Occurrence",
+      "formula": null,
+      "namedRange": null
+    },
+    "D1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C2": {
+      "value": "P1",
+      "formula": null,
+      "namedRange": null
+    },
+    "D2": {
+      "value": "P2",
+      "formula": null,
+      "namedRange": null
+    },
+    "E2": {
+      "value": "P3",
+      "formula": null,
+      "namedRange": null
+    },
+    "A3": {
+      "value": "Drive rating",
+      "formula": null,
+      "namedRange": null
+    },
+    "B3": {
+      "value": "Red +",
+      "formula": null,
+      "namedRange": null
+    },
+    "C3": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "D3": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "E3": {
+      "value": 2,
+      "formula": null,
+      "namedRange": null
+    },
+    "A4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B4": {
+      "value": "Red",
+      "formula": null,
+      "namedRange": null
+    },
+    "C4": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "D4": {
+      "value": 2,
+      "formula": null,
+      "namedRange": null
+    },
+    "E4": {
+      "value": 3,
+      "formula": null,
+      "namedRange": null
+    },
+    "A5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B5": {
+      "value": "Orange",
+      "formula": null,
+      "namedRange": null
+    },
+    "C5": {
+      "value": 2,
+      "formula": null,
+      "namedRange": null
+    },
+    "D5": {
+      "value": 3,
+      "formula": null,
+      "namedRange": null
+    },
+    "E5": {
+      "value": 4,
+      "formula": null,
+      "namedRange": null
+    },
+    "A6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B6": {
+      "value": "Jaune",
+      "formula": null,
+      "namedRange": null
+    },
+    "C6": {
+      "value": 3,
+      "formula": null,
+      "namedRange": null
+    },
+    "D6": {
+      "value": 4,
+      "formula": null,
+      "namedRange": null
+    },
+    "E6": {
+      "value": 4,
+      "formula": null,
+      "namedRange": null
+    },
+    "A7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B7": {
+      "value": "Green",
+      "formula": null,
+      "namedRange": null
+    },
+    "C7": {
+      "value": 5,
+      "formula": null,
+      "namedRange": null
+    },
+    "D7": {
+      "value": 5,
+      "formula": null,
+      "namedRange": null
+    },
+    "E7": {
+      "value": 5,
+      "formula": null,
+      "namedRange": null
+    },
+    "A8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B8": {
+      "value": "Seuil orange/jaune",
+      "formula": null,
+      "namedRange": null
+    },
+    "C8": {
+      "value": -0.16,
+      "formula": null,
+      "namedRange": null
+    },
+    "D8": {
+      "value": -0.16,
+      "formula": null,
+      "namedRange": null
+    },
+    "E8": {
+      "value": -0.1,
+      "formula": null,
+      "namedRange": null
+    }
+  },
+  "charts": []
+}

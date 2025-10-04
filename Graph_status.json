@@ -1,0 +1,3705 @@
+{
+  "cells": {
+    "A1": {
+      "value": "DRIVABILITY",
+      "formula": null,
+      "namedRange": null
+    },
+    "B1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "D1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A2": {
+      "value": "Global index",
+      "formula": null,
+      "namedRange": null
+    },
+    "B2": {
+      "value": "Target",
+      "formula": null,
+      "namedRange": null
+    },
+    "C2": {
+      "value": "X",
+      "formula": null,
+      "namedRange": null
+    },
+    "D2": {
+      "value": "Y",
+      "formula": null,
+      "namedRange": null
+    },
+    "E2": {
+      "value": "Couleur",
+      "formula": null,
+      "namedRange": null
+    },
+    "F2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A3": {
+      "value": "P8 MHEV MDL2",
+      "formula": null,
+      "namedRange": null
+    },
+    "B3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C3": {
+      "value": "=(B3/100)^GLOBALPUISS",
+      "formula": "=(B3/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D3": {
+      "value": "=1*8.2857",
+      "formula": "=1*8.2857",
+      "namedRange": null
+    },
+    "E3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A4": {
+      "value": "MG4_MODE B_Dec -1.8 _RWD_170ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C4": {
+      "value": "=(B4/100)^GLOBALPUISS",
+      "formula": "=(B4/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D4": {
+      "value": "=2*8.2857",
+      "formula": "=2*8.2857",
+      "namedRange": null
+    },
+    "E4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A5": {
+      "value": "Tesla_ModelY_RWD_275ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C5": {
+      "value": "=(B5/100)^GLOBALPUISS",
+      "formula": "=(B5/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D5": {
+      "value": "=3*8.2857",
+      "formula": "=3*8.2857",
+      "namedRange": null
+    },
+    "E5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A6": {
+      "value": "SKODA_Enyaq_iV80_RWD_204ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C6": {
+      "value": "=(B6/100)^GLOBALPUISS",
+      "formula": "=(B6/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D6": {
+      "value": "=4*8.2857",
+      "formula": "=4*8.2857",
+      "namedRange": null
+    },
+    "E6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A7": {
+      "value": "LeapMotor_T03_MY24_FWD_108ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C7": {
+      "value": "=(B7/100)^GLOBALPUISS",
+      "formula": "=(B7/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D7": {
+      "value": "=5*8.2857",
+      "formula": "=5*8.2857",
+      "namedRange": null
+    },
+    "E7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A8": {
+      "value": "VOLVO_EX30_AWD_428ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C8": {
+      "value": "=(B8/100)^GLOBALPUISS",
+      "formula": "=(B8/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D8": {
+      "value": "=7*8.2857",
+      "formula": "=7*8.2857",
+      "namedRange": null
+    },
+    "E8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A9": {
+      "value": "VOLVO_EX30_NORMAL_RWD_428ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C9": {
+      "value": "=(B9/100)^GLOBALPUISS",
+      "formula": "=(B9/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D9": {
+      "value": "=8*8.2857",
+      "formula": "=8*8.2857",
+      "namedRange": null
+    },
+    "E9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A10": {
+      "value": "=IF(LEN([1]HOME!Project)>0,[1]HOME!Project,\"\")",
+      "formula": "=IF(LEN([1]HOME!Project)>0,[1]HOME!Project,\"\")",
+      "namedRange": null
+    },
+    "B10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C10": {
+      "value": "=(RESULTATGLOBAL1/100)^GLOBALPUISS",
+      "formula": "=(RESULTATGLOBAL1/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D10": {
+      "value": 50,
+      "formula": null,
+      "namedRange": null
+    },
+    "E10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A11": {
+      "value": "index rouge",
+      "formula": null,
+      "namedRange": null
+    },
+    "B11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C11": {
+      "value": "=E18*(100%/E19)",
+      "formula": "=E18*(100%/E19)",
+      "namedRange": null
+    },
+    "D11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A12": {
+      "value": "index orange",
+      "formula": null,
+      "namedRange": null
+    },
+    "B12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C12": {
+      "value": "=(E17-E18)*(100%/E19)",
+      "formula": "=(E17-E18)*(100%/E19)",
+      "namedRange": null
+    },
+    "D12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A13": {
+      "value": "index vert",
+      "formula": null,
+      "namedRange": null
+    },
+    "B13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C13": {
+      "value": "=C14-SUM(C11:C12)",
+      "formula": "=C14-SUM(C11:C12)",
+      "namedRange": null
+    },
+    "D13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A14": {
+      "value": "Pleine échelle",
+      "formula": null,
+      "namedRange": null
+    },
+    "B14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C14": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "D14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B15": {
+      "value": "Seuils d'index fonction du Milestone",
+      "formula": null,
+      "namedRange": null
+    },
+    "C15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "D15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A16": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B16": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "C16": {
+      "value": 2,
+      "formula": null,
+      "namedRange": null
+    },
+    "D16": {
+      "value": 3,
+      "formula": null,
+      "namedRange": null
+    },
+    "E16": {
+      "value": 4,
+      "formula": null,
+      "namedRange": null
+    },
+    "F16": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G16": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H16": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I16": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J16": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A17": {
+      "value": "seuil Vert/orange",
+      "formula": null,
+      "namedRange": null
+    },
+    "B17": {
+      "value": 0.56,
+      "formula": null,
+      "namedRange": null
+    },
+    "C17": {
+      "value": 0.61,
+      "formula": null,
+      "namedRange": null
+    },
+    "D17": {
+      "value": 0.66,
+      "formula": null,
+      "namedRange": null
+    },
+    "E17": {
+      "value": 0.71,
+      "formula": null,
+      "namedRange": null
+    },
+    "F17": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G17": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H17": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I17": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J17": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A18": {
+      "value": "seuil Orange/Rouge",
+      "formula": null,
+      "namedRange": null
+    },
+    "B18": {
+      "value": 0.4,
+      "formula": null,
+      "namedRange": null
+    },
+    "C18": {
+      "value": 0.45,
+      "formula": null,
+      "namedRange": null
+    },
+    "D18": {
+      "value": 0.5,
+      "formula": null,
+      "namedRange": null
+    },
+    "E18": {
+      "value": 0.55,
+      "formula": null,
+      "namedRange": null
+    },
+    "F18": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G18": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H18": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I18": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J18": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A19": {
+      "value": "Pleine Echelle",
+      "formula": null,
+      "namedRange": null
+    },
+    "B19": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "C19": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "D19": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "E19": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "F19": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G19": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H19": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I19": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J19": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A20": {
+      "value": "Global index",
+      "formula": null,
+      "namedRange": null
+    },
+    "B20": {
+      "value": "Target",
+      "formula": null,
+      "namedRange": null
+    },
+    "C20": {
+      "value": "X",
+      "formula": null,
+      "namedRange": null
+    },
+    "D20": {
+      "value": "Y",
+      "formula": null,
+      "namedRange": null
+    },
+    "E20": {
+      "value": "Couleur",
+      "formula": null,
+      "namedRange": null
+    },
+    "F20": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G20": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H20": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I20": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J20": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A21": {
+      "value": "P8 MHEV MDL2",
+      "formula": null,
+      "namedRange": null
+    },
+    "B21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C21": {
+      "value": "=((B21/100))*100",
+      "formula": "=((B21/100))*100",
+      "namedRange": null
+    },
+    "D21": {
+      "value": "=1*8.2857",
+      "formula": "=1*8.2857",
+      "namedRange": null
+    },
+    "E21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A22": {
+      "value": "MG4_MODE B_Dec -1.8 _RWD_170ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C22": {
+      "value": "=((B22/100))*100",
+      "formula": "=((B22/100))*100",
+      "namedRange": null
+    },
+    "D22": {
+      "value": "=2*8.2857",
+      "formula": "=2*8.2857",
+      "namedRange": null
+    },
+    "E22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A23": {
+      "value": "Tesla_ModelY_RWD_275ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C23": {
+      "value": "=((B23/100))*100",
+      "formula": "=((B23/100))*100",
+      "namedRange": null
+    },
+    "D23": {
+      "value": "=3*8.2857",
+      "formula": "=3*8.2857",
+      "namedRange": null
+    },
+    "E23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A24": {
+      "value": "SKODA_Enyaq_iV80_RWD_204ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C24": {
+      "value": "=((B24/100))*100",
+      "formula": "=((B24/100))*100",
+      "namedRange": null
+    },
+    "D24": {
+      "value": "=4*8.2857",
+      "formula": "=4*8.2857",
+      "namedRange": null
+    },
+    "E24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A25": {
+      "value": "LeapMotor_T03_MY24_FWD_108ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C25": {
+      "value": "=((B25/100))*100",
+      "formula": "=((B25/100))*100",
+      "namedRange": null
+    },
+    "D25": {
+      "value": "=5*8.2857",
+      "formula": "=5*8.2857",
+      "namedRange": null
+    },
+    "E25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A26": {
+      "value": "VOLVO_EX30_AWD_428ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C26": {
+      "value": "=((B26/100))*100",
+      "formula": "=((B26/100))*100",
+      "namedRange": null
+    },
+    "D26": {
+      "value": "=7*8.2857",
+      "formula": "=7*8.2857",
+      "namedRange": null
+    },
+    "E26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A27": {
+      "value": "VOLVO_EX30_NORMAL_RWD_428ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C27": {
+      "value": "=((B27/100))*100",
+      "formula": "=((B27/100))*100",
+      "namedRange": null
+    },
+    "D27": {
+      "value": "=8*8.2857",
+      "formula": "=8*8.2857",
+      "namedRange": null
+    },
+    "E27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A28": {
+      "value": "=IF(LEN([1]HOME!Project)>0,[1]HOME!Project,\"\")",
+      "formula": "=IF(LEN([1]HOME!Project)>0,[1]HOME!Project,\"\")",
+      "namedRange": null
+    },
+    "B28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C28": {
+      "value": "=[1]RATING!AK12",
+      "formula": "=[1]RATING!AK12",
+      "namedRange": null
+    },
+    "D28": {
+      "value": 50,
+      "formula": null,
+      "namedRange": null
+    },
+    "E28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A29": {
+      "value": "index rouge",
+      "formula": null,
+      "namedRange": null
+    },
+    "B29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C29": {
+      "value": "=(E37-E36)*(100%/E37)",
+      "formula": "=(E37-E36)*(100%/E37)",
+      "namedRange": null
+    },
+    "D29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A30": {
+      "value": "index orange",
+      "formula": null,
+      "namedRange": null
+    },
+    "B30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C30": {
+      "value": "=(E36-E35)*(100%/E37)",
+      "formula": "=(E36-E35)*(100%/E37)",
+      "namedRange": null
+    },
+    "D30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A31": {
+      "value": "index vert",
+      "formula": null,
+      "namedRange": null
+    },
+    "B31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C31": {
+      "value": "=C32-SUM(C29:C30)",
+      "formula": "=C32-SUM(C29:C30)",
+      "namedRange": null
+    },
+    "D31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A32": {
+      "value": "Pleine échelle",
+      "formula": null,
+      "namedRange": null
+    },
+    "B32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C32": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "D32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B33": {
+      "value": "Seuils du taux de points bas fonction du Milestone",
+      "formula": null,
+      "namedRange": null
+    },
+    "C33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "D33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A34": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B34": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "C34": {
+      "value": 2,
+      "formula": null,
+      "namedRange": null
+    },
+    "D34": {
+      "value": 3,
+      "formula": null,
+      "namedRange": null
+    },
+    "E34": {
+      "value": 4,
+      "formula": null,
+      "namedRange": null
+    },
+    "F34": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G34": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H34": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I34": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J34": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A35": {
+      "value": "seuil Vert/orange",
+      "formula": null,
+      "namedRange": null
+    },
+    "B35": {
+      "value": 0.06,
+      "formula": null,
+      "namedRange": null
+    },
+    "C35": {
+      "value": 0.05,
+      "formula": null,
+      "namedRange": null
+    },
+    "D35": {
+      "value": 0.05,
+      "formula": null,
+      "namedRange": null
+    },
+    "E35": {
+      "value": 0.03,
+      "formula": null,
+      "namedRange": null
+    },
+    "F35": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G35": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H35": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I35": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J35": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A36": {
+      "value": "seuil Orange/Rouge",
+      "formula": null,
+      "namedRange": null
+    },
+    "B36": {
+      "value": 0.12,
+      "formula": null,
+      "namedRange": null
+    },
+    "C36": {
+      "value": 0.11,
+      "formula": null,
+      "namedRange": null
+    },
+    "D36": {
+      "value": 0.1,
+      "formula": null,
+      "namedRange": null
+    },
+    "E36": {
+      "value": 0.09,
+      "formula": null,
+      "namedRange": null
+    },
+    "F36": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G36": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H36": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I36": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J36": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A37": {
+      "value": "Pleine Echelle",
+      "formula": null,
+      "namedRange": null
+    },
+    "B37": {
+      "value": 0.18,
+      "formula": null,
+      "namedRange": null
+    },
+    "C37": {
+      "value": 0.16,
+      "formula": null,
+      "namedRange": null
+    },
+    "D37": {
+      "value": 0.14,
+      "formula": null,
+      "namedRange": null
+    },
+    "E37": {
+      "value": 0.12,
+      "formula": null,
+      "namedRange": null
+    },
+    "F37": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G37": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H37": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I37": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J37": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A38": {
+      "value": "DYNAMIC",
+      "formula": null,
+      "namedRange": null
+    },
+    "B38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "D38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A39": {
+      "value": "Global index",
+      "formula": null,
+      "namedRange": null
+    },
+    "B39": {
+      "value": "Target",
+      "formula": null,
+      "namedRange": null
+    },
+    "C39": {
+      "value": "X",
+      "formula": null,
+      "namedRange": null
+    },
+    "D39": {
+      "value": "Y",
+      "formula": null,
+      "namedRange": null
+    },
+    "E39": {
+      "value": "Couleur",
+      "formula": null,
+      "namedRange": null
+    },
+    "F39": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G39": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H39": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I39": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J39": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A40": {
+      "value": "P8 MHEV MDL2",
+      "formula": null,
+      "namedRange": null
+    },
+    "B40": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C40": {
+      "value": "=(B40/100)^GLOBALPUISS",
+      "formula": "=(B40/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D40": {
+      "value": "=1*8.2857",
+      "formula": "=1*8.2857",
+      "namedRange": null
+    },
+    "E40": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F40": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G40": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H40": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I40": {
+      "value": "=IF(LEN([1]HOME!C39)>0,[1]HOME!C39,\"\")",
+      "formula": "=IF(LEN([1]HOME!C39)>0,[1]HOME!C39,\"\")",
+      "namedRange": null
+    },
+    "J40": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A41": {
+      "value": "MG4_MODE B_Dec -1.8 _RWD_170ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C41": {
+      "value": "=(B41/100)^GLOBALPUISS",
+      "formula": "=(B41/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D41": {
+      "value": "=2*8.2857",
+      "formula": "=2*8.2857",
+      "namedRange": null
+    },
+    "E41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A42": {
+      "value": "Tesla_ModelY_RWD_275ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C42": {
+      "value": "=(B42/100)^GLOBALPUISS",
+      "formula": "=(B42/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D42": {
+      "value": "=3*8.2857",
+      "formula": "=3*8.2857",
+      "namedRange": null
+    },
+    "E42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A43": {
+      "value": "SKODA_Enyaq_iV80_RWD_204ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C43": {
+      "value": "=(B43/100)^GLOBALPUISS",
+      "formula": "=(B43/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D43": {
+      "value": "=4*8.2857",
+      "formula": "=4*8.2857",
+      "namedRange": null
+    },
+    "E43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A44": {
+      "value": "LeapMotor_T03_MY24_FWD_108ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C44": {
+      "value": "=(B44/100)^GLOBALPUISS",
+      "formula": "=(B44/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D44": {
+      "value": "=5*8.2857",
+      "formula": "=5*8.2857",
+      "namedRange": null
+    },
+    "E44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A45": {
+      "value": "VOLVO_EX30_AWD_428ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C45": {
+      "value": "=(B45/100)^GLOBALPUISS",
+      "formula": "=(B45/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D45": {
+      "value": "=7*8.2857",
+      "formula": "=7*8.2857",
+      "namedRange": null
+    },
+    "E45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A46": {
+      "value": "VOLVO_EX30_NORMAL_RWD_428ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C46": {
+      "value": "=(B46/100)^GLOBALPUISS",
+      "formula": "=(B46/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D46": {
+      "value": "=8*8.2857",
+      "formula": "=8*8.2857",
+      "namedRange": null
+    },
+    "E46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A47": {
+      "value": "=IF(LEN([1]HOME!Project)>0,[1]HOME!Project,\"\")",
+      "formula": "=IF(LEN([1]HOME!Project)>0,[1]HOME!Project,\"\")",
+      "namedRange": null
+    },
+    "B47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C47": {
+      "value": "=(RESULTATGLOBAL2/100)^GLOBALPUISS",
+      "formula": "=(RESULTATGLOBAL2/100)^GLOBALPUISS",
+      "namedRange": null
+    },
+    "D47": {
+      "value": 50,
+      "formula": null,
+      "namedRange": null
+    },
+    "E47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A48": {
+      "value": "index rouge",
+      "formula": null,
+      "namedRange": null
+    },
+    "B48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C48": {
+      "value": "=E55*(100%/E56)",
+      "formula": "=E55*(100%/E56)",
+      "namedRange": null
+    },
+    "D48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A49": {
+      "value": "index orange",
+      "formula": null,
+      "namedRange": null
+    },
+    "B49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C49": {
+      "value": "=(E54-E55)*(100%/E56)",
+      "formula": "=(E54-E55)*(100%/E56)",
+      "namedRange": null
+    },
+    "D49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A50": {
+      "value": "index vert",
+      "formula": null,
+      "namedRange": null
+    },
+    "B50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C50": {
+      "value": "=C51-SUM(C48:C49)",
+      "formula": "=C51-SUM(C48:C49)",
+      "namedRange": null
+    },
+    "D50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A51": {
+      "value": "Pleine échelle",
+      "formula": null,
+      "namedRange": null
+    },
+    "B51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C51": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "D51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B52": {
+      "value": "Seuils d'index fonction du Milestone",
+      "formula": null,
+      "namedRange": null
+    },
+    "C52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "D52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A53": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B53": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "C53": {
+      "value": 2,
+      "formula": null,
+      "namedRange": null
+    },
+    "D53": {
+      "value": 3,
+      "formula": null,
+      "namedRange": null
+    },
+    "E53": {
+      "value": 4,
+      "formula": null,
+      "namedRange": null
+    },
+    "F53": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G53": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H53": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I53": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J53": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A54": {
+      "value": "seuil Vert/orange",
+      "formula": null,
+      "namedRange": null
+    },
+    "B54": {
+      "value": 0.6,
+      "formula": null,
+      "namedRange": null
+    },
+    "C54": {
+      "value": 0.65,
+      "formula": null,
+      "namedRange": null
+    },
+    "D54": {
+      "value": 0.7,
+      "formula": null,
+      "namedRange": null
+    },
+    "E54": {
+      "value": 0.75,
+      "formula": null,
+      "namedRange": null
+    },
+    "F54": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G54": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H54": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I54": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J54": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A55": {
+      "value": "seuil Orange/Rouge",
+      "formula": null,
+      "namedRange": null
+    },
+    "B55": {
+      "value": 0.4,
+      "formula": null,
+      "namedRange": null
+    },
+    "C55": {
+      "value": 0.45,
+      "formula": null,
+      "namedRange": null
+    },
+    "D55": {
+      "value": 0.5,
+      "formula": null,
+      "namedRange": null
+    },
+    "E55": {
+      "value": 0.55,
+      "formula": null,
+      "namedRange": null
+    },
+    "F55": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G55": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H55": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I55": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J55": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A56": {
+      "value": "Pleine Echelle",
+      "formula": null,
+      "namedRange": null
+    },
+    "B56": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "C56": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "D56": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "E56": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "F56": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G56": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H56": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I56": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J56": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A57": {
+      "value": "Global index",
+      "formula": null,
+      "namedRange": null
+    },
+    "B57": {
+      "value": "Target",
+      "formula": null,
+      "namedRange": null
+    },
+    "C57": {
+      "value": "X",
+      "formula": null,
+      "namedRange": null
+    },
+    "D57": {
+      "value": "Y",
+      "formula": null,
+      "namedRange": null
+    },
+    "E57": {
+      "value": "Couleur",
+      "formula": null,
+      "namedRange": null
+    },
+    "F57": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G57": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H57": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I57": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J57": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A58": {
+      "value": "P8 MHEV MDL2",
+      "formula": null,
+      "namedRange": null
+    },
+    "B58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C58": {
+      "value": "=(B58*100)/100",
+      "formula": "=(B58*100)/100",
+      "namedRange": null
+    },
+    "D58": {
+      "value": "=1*8.2857",
+      "formula": "=1*8.2857",
+      "namedRange": null
+    },
+    "E58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A59": {
+      "value": "MG4_MODE B_Dec -1.8 _RWD_170ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C59": {
+      "value": "=(B59*100)/100",
+      "formula": "=(B59*100)/100",
+      "namedRange": null
+    },
+    "D59": {
+      "value": "=2*8.2857",
+      "formula": "=2*8.2857",
+      "namedRange": null
+    },
+    "E59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A60": {
+      "value": "Tesla_ModelY_RWD_275ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C60": {
+      "value": "=(B60*100)/100",
+      "formula": "=(B60*100)/100",
+      "namedRange": null
+    },
+    "D60": {
+      "value": "=3*8.2857",
+      "formula": "=3*8.2857",
+      "namedRange": null
+    },
+    "E60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A61": {
+      "value": "SKODA_Enyaq_iV80_RWD_204ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C61": {
+      "value": "=(B61*100)/100",
+      "formula": "=(B61*100)/100",
+      "namedRange": null
+    },
+    "D61": {
+      "value": "=4*8.2857",
+      "formula": "=4*8.2857",
+      "namedRange": null
+    },
+    "E61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A62": {
+      "value": "LeapMotor_T03_MY24_FWD_108ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C62": {
+      "value": "=(B62*100)/100",
+      "formula": "=(B62*100)/100",
+      "namedRange": null
+    },
+    "D62": {
+      "value": "=5*8.2857",
+      "formula": "=5*8.2857",
+      "namedRange": null
+    },
+    "E62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A63": {
+      "value": "VOLVO_EX30_AWD_428ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C63": {
+      "value": "=(B63*100)/100",
+      "formula": "=(B63*100)/100",
+      "namedRange": null
+    },
+    "D63": {
+      "value": "=7*8.2857",
+      "formula": "=7*8.2857",
+      "namedRange": null
+    },
+    "E63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A64": {
+      "value": "VOLVO_EX30_NORMAL_RWD_428ch",
+      "formula": null,
+      "namedRange": null
+    },
+    "B64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C64": {
+      "value": "=(B64*100)/100",
+      "formula": "=(B64*100)/100",
+      "namedRange": null
+    },
+    "D64": {
+      "value": "=8*8.2857",
+      "formula": "=8*8.2857",
+      "namedRange": null
+    },
+    "E64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A65": {
+      "value": "=IF(LEN([1]HOME!Project)>0,[1]HOME!Project,\"\")",
+      "formula": "=IF(LEN([1]HOME!Project)>0,[1]HOME!Project,\"\")",
+      "namedRange": null
+    },
+    "B65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C65": {
+      "value": "=[1]RATING!AK18",
+      "formula": "=[1]RATING!AK18",
+      "namedRange": null
+    },
+    "D65": {
+      "value": 50,
+      "formula": null,
+      "namedRange": null
+    },
+    "E65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A66": {
+      "value": "index rouge",
+      "formula": null,
+      "namedRange": null
+    },
+    "B66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C66": {
+      "value": "=(E74-E73)*(100%/E74)",
+      "formula": "=(E74-E73)*(100%/E74)",
+      "namedRange": null
+    },
+    "D66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A67": {
+      "value": "index orange",
+      "formula": null,
+      "namedRange": null
+    },
+    "B67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C67": {
+      "value": "=(E73-E72)*(100%/E74)",
+      "formula": "=(E73-E72)*(100%/E74)",
+      "namedRange": null
+    },
+    "D67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A68": {
+      "value": "index vert",
+      "formula": null,
+      "namedRange": null
+    },
+    "B68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C68": {
+      "value": "=C69-SUM(C66:C67)",
+      "formula": "=C69-SUM(C66:C67)",
+      "namedRange": null
+    },
+    "D68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A69": {
+      "value": "Pleine échelle",
+      "formula": null,
+      "namedRange": null
+    },
+    "B69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C69": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "D69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B70": {
+      "value": "Seuils du taux de points bas fonction du Milestone",
+      "formula": null,
+      "namedRange": null
+    },
+    "C70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "D70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A71": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B71": {
+      "value": 1,
+      "formula": null,
+      "namedRange": null
+    },
+    "C71": {
+      "value": 2,
+      "formula": null,
+      "namedRange": null
+    },
+    "D71": {
+      "value": 3,
+      "formula": null,
+      "namedRange": null
+    },
+    "E71": {
+      "value": 4,
+      "formula": null,
+      "namedRange": null
+    },
+    "F71": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G71": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H71": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I71": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J71": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A72": {
+      "value": "seuil Vert/orange",
+      "formula": null,
+      "namedRange": null
+    },
+    "B72": {
+      "value": 0.06,
+      "formula": null,
+      "namedRange": null
+    },
+    "C72": {
+      "value": 0.05,
+      "formula": null,
+      "namedRange": null
+    },
+    "D72": {
+      "value": 0.05,
+      "formula": null,
+      "namedRange": null
+    },
+    "E72": {
+      "value": 0.03,
+      "formula": null,
+      "namedRange": null
+    },
+    "F72": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G72": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H72": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I72": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J72": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A73": {
+      "value": "seuil Orange/Rouge",
+      "formula": null,
+      "namedRange": null
+    },
+    "B73": {
+      "value": 0.12,
+      "formula": null,
+      "namedRange": null
+    },
+    "C73": {
+      "value": 0.11,
+      "formula": null,
+      "namedRange": null
+    },
+    "D73": {
+      "value": 0.1,
+      "formula": null,
+      "namedRange": null
+    },
+    "E73": {
+      "value": 0.09,
+      "formula": null,
+      "namedRange": null
+    },
+    "F73": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G73": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H73": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I73": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J73": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A74": {
+      "value": "Pleine Echelle",
+      "formula": null,
+      "namedRange": null
+    },
+    "B74": {
+      "value": 0.18,
+      "formula": null,
+      "namedRange": null
+    },
+    "C74": {
+      "value": 0.16,
+      "formula": null,
+      "namedRange": null
+    },
+    "D74": {
+      "value": 0.14,
+      "formula": null,
+      "namedRange": null
+    },
+    "E74": {
+      "value": 0.12,
+      "formula": null,
+      "namedRange": null
+    },
+    "F74": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G74": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "H74": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "I74": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "J74": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    }
+  },
+  "charts": []
+}
