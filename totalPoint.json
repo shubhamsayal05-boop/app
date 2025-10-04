@@ -1,0 +1,665 @@
+{
+  "cells": {
+    "A1": {
+      "value": "SUBJECTIVE + OBJECTIVE",
+      "formula": null,
+      "namedRange": null
+    },
+    "B1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C1": {
+      "value": "P1R",
+      "formula": null,
+      "namedRange": null
+    },
+    "D1": {
+      "value": "P1O",
+      "formula": null,
+      "namedRange": null
+    },
+    "E1": {
+      "value": "P1V",
+      "formula": null,
+      "namedRange": null
+    },
+    "F1": {
+      "value": "P2R",
+      "formula": null,
+      "namedRange": null
+    },
+    "G1": {
+      "value": "P2O",
+      "formula": null,
+      "namedRange": null
+    },
+    "H1": {
+      "value": "P2V",
+      "formula": null,
+      "namedRange": null
+    },
+    "I1": {
+      "value": "P3R",
+      "formula": null,
+      "namedRange": null
+    },
+    "J1": {
+      "value": "P3O",
+      "formula": null,
+      "namedRange": null
+    },
+    "K1": {
+      "value": "P3V",
+      "formula": null,
+      "namedRange": null
+    },
+    "L1": {
+      "value": "TOTAL R",
+      "formula": null,
+      "namedRange": null
+    },
+    "M1": {
+      "value": "TOTAL O",
+      "formula": null,
+      "namedRange": null
+    },
+    "N1": {
+      "value": "TOTAL V",
+      "formula": null,
+      "namedRange": null
+    },
+    "O1": {
+      "value": "TOTAL P1",
+      "formula": null,
+      "namedRange": null
+    },
+    "P1": {
+      "value": "TOTAL P2",
+      "formula": null,
+      "namedRange": null
+    },
+    "Q1": {
+      "value": "TOTAL P3",
+      "formula": null,
+      "namedRange": null
+    },
+    "R1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "S1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "T1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "U1": {
+      "value": "Idle Air Cond On-Off",
+      "formula": null,
+      "namedRange": null
+    },
+    "V1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "W1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "X1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "Y1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "Z1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "AA1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "AB1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "AC1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "AD1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AE1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AF1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AG1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AH1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AI1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AJ1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AK1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AL1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AM1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "AN1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "AO1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "AP1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "AQ1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "AR1": {
+      "value": "●",
+      "formula": null,
+      "namedRange": null
+    },
+    "A2": {
+      "value": "TOTAL",
+      "formula": null,
+      "namedRange": null
+    },
+    "B2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C2": {
+      "value": 0,
+      "formula": null,
+      "namedRange": null
+    },
+    "D2": {
+      "value": 0,
+      "formula": null,
+      "namedRange": null
+    },
+    "E2": {
+      "value": 0,
+      "formula": null,
+      "namedRange": null
+    },
+    "F2": {
+      "value": 0,
+      "formula": null,
+      "namedRange": null
+    },
+    "G2": {
+      "value": 0,
+      "formula": null,
+      "namedRange": null
+    },
+    "H2": {
+      "value": 0,
+      "formula": null,
+      "namedRange": null
+    },
+    "I2": {
+      "value": 0,
+      "formula": null,
+      "namedRange": null
+    },
+    "J2": {
+      "value": 0,
+      "formula": null,
+      "namedRange": null
+    },
+    "K2": {
+      "value": 0,
+      "formula": null,
+      "namedRange": null
+    },
+    "L2": {
+      "value": "=C2+F2+I2",
+      "formula": "=C2+F2+I2",
+      "namedRange": null
+    },
+    "M2": {
+      "value": "=D2+G2+J2",
+      "formula": "=D2+G2+J2",
+      "namedRange": null
+    },
+    "N2": {
+      "value": "=E2+H2+K2",
+      "formula": "=E2+H2+K2",
+      "namedRange": null
+    },
+    "O2": {
+      "value": "=C2+D2+E2",
+      "formula": "=C2+D2+E2",
+      "namedRange": null
+    },
+    "P2": {
+      "value": "=F2+G2+H2",
+      "formula": "=F2+G2+H2",
+      "namedRange": null
+    },
+    "Q2": {
+      "value": "=I2+J2+K2",
+      "formula": "=I2+J2+K2",
+      "namedRange": null
+    },
+    "R2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "S2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "T2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "U2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "V2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "W2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "X2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "Y2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "Z2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AA2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AB2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AC2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AD2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AE2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AF2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AG2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AH2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AI2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AJ2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AK2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AL2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AM2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AN2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AO2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AP2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AQ2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AR2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A3": {
+      "value": "%",
+      "formula": null,
+      "namedRange": null
+    },
+    "B3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C3": {
+      "value": "=IF($O$2=0,0,C2/$O$2)*100",
+      "formula": "=IF($O$2=0,0,C2/$O$2)*100",
+      "namedRange": null
+    },
+    "D3": {
+      "value": "=IF($O$2=0,0,D2/$O$2)*100",
+      "formula": "=IF($O$2=0,0,D2/$O$2)*100",
+      "namedRange": null
+    },
+    "E3": {
+      "value": "=IF($O$2=0,0,E2/$O$2)*100",
+      "formula": "=IF($O$2=0,0,E2/$O$2)*100",
+      "namedRange": null
+    },
+    "F3": {
+      "value": "=IF($P$2=0,0,F2/$P$2)*100",
+      "formula": "=IF($P$2=0,0,F2/$P$2)*100",
+      "namedRange": null
+    },
+    "G3": {
+      "value": "=IF($P$2=0,0,G2/$P$2)*100",
+      "formula": "=IF($P$2=0,0,G2/$P$2)*100",
+      "namedRange": null
+    },
+    "H3": {
+      "value": "=IF($P$2=0,0,H2/$P$2)*100",
+      "formula": "=IF($P$2=0,0,H2/$P$2)*100",
+      "namedRange": null
+    },
+    "I3": {
+      "value": "=IF($P$2=0,0,I2/$P$2)*100",
+      "formula": "=IF($P$2=0,0,I2/$P$2)*100",
+      "namedRange": null
+    },
+    "J3": {
+      "value": "=IF($P$2=0,0,J2/$P$2)*100",
+      "formula": "=IF($P$2=0,0,J2/$P$2)*100",
+      "namedRange": null
+    },
+    "K3": {
+      "value": "=IF($P$2=0,0,K2/$P$2)*100",
+      "formula": "=IF($P$2=0,0,K2/$P$2)*100",
+      "namedRange": null
+    },
+    "L3": {
+      "value": "=IF($L$2+$M$2+$N$2=0,0,L2/($L$2+$M$2+$N$2))*100",
+      "formula": "=IF($L$2+$M$2+$N$2=0,0,L2/($L$2+$M$2+$N$2))*100",
+      "namedRange": null
+    },
+    "M3": {
+      "value": "=IF($L$2+$M$2+$N$2=0,0,M2/($L$2+$M$2+$N$2))*100",
+      "formula": "=IF($L$2+$M$2+$N$2=0,0,M2/($L$2+$M$2+$N$2))*100",
+      "namedRange": null
+    },
+    "N3": {
+      "value": "=IF($L$2+$M$2+$N$2=0,0,N2/($L$2+$M$2+$N$2))*100",
+      "formula": "=IF($L$2+$M$2+$N$2=0,0,N2/($L$2+$M$2+$N$2))*100",
+      "namedRange": null
+    },
+    "O3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "P3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "Q3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "R3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "S3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "T3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "U3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "V3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "W3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "X3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "Y3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "Z3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AA3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AB3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AC3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AD3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AE3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AF3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AG3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AH3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AI3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AJ3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AK3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AL3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AM3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AN3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AO3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AP3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AQ3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "AR3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    }
+  },
+  "charts": []
+}

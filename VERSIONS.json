@@ -1,0 +1,2875 @@
+{
+  "cells": {
+    "A1": {
+      "value": "ODRIV : VERSIONS",
+      "formula": null,
+      "namedRange": null
+    },
+    "B1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "D1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G1": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A2": {
+      "value": "Name",
+      "formula": null,
+      "namedRange": null
+    },
+    "B2": {
+      "value": "Code version",
+      "formula": null,
+      "namedRange": null
+    },
+    "C2": {
+      "value": "Params version",
+      "formula": null,
+      "namedRange": null
+    },
+    "D2": {
+      "value": "UPDATED FEATURES",
+      "formula": null,
+      "namedRange": null
+    },
+    "E2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F2": {
+      "value": "EDITOR",
+      "formula": null,
+      "namedRange": null
+    },
+    "G2": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "D3": {
+      "value": "FRENCH",
+      "formula": null,
+      "namedRange": null
+    },
+    "E3": {
+      "value": "ENGLISH",
+      "formula": null,
+      "namedRange": null
+    },
+    "F3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G3": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B4": {
+      "value": 19122022,
+      "formula": null,
+      "namedRange": null
+    },
+    "C4": {
+      "value": "2023-01-10T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D4": {
+      "value": "Targets : fin de transfert des Tg/WL 4.2 vers 4.6.\nConfiguration : Ajout démonstrateur pour le test sur la température BV.\nTarget vehicles : rate of low points inconnus des véhicules cibles à 1% par défaut",
+      "formula": null,
+      "namedRange": null
+    },
+    "E4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F4": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G4": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B5": {
+      "value": 19122022,
+      "formula": null,
+      "namedRange": null
+    },
+    "C5": {
+      "value": "2023-01-11T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D5": {
+      "value": "Vérification et mise à jour des entrées nécessaires aux priorités pour tous les operation modes\nMise à jour des selector lever position pour tous les operation modes\nMise à jour position pedale (P:pp,pp) for lock up operation modes\nVérification et mise à jour des entrées nécessaires à la création des graphes",
+      "formula": null,
+      "namedRange": null
+    },
+    "E5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F5": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G5": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B6": {
+      "value": 12012023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C6": {
+      "value": "2023-01-12T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D6": {
+      "value": "Copie des éléments de l'update du 11/01/2023 dans cette nouvelle version.",
+      "formula": null,
+      "namedRange": null
+    },
+    "E6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F6": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G6": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B7": {
+      "value": 12012023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C7": {
+      "value": "2023-01-13T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D7": {
+      "value": "Suppression des Val_au_top des operation modes autres que gearshifts\nCorrection Auto Stop, Auto Start. Ajout sdv Auto start dans target pour V4.2 et V4.6",
+      "formula": null,
+      "namedRange": null
+    },
+    "E7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F7": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G7": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B8": {
+      "value": 12012023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C8": {
+      "value": "2023-01-17T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D8": {
+      "value": "Target sheet : Added ECO for conventional powertrains to be in coherence with Configurations sheet. fill empty cells with 7/8. \nStructure sheet : Configuration AUTO STOP/START criteria et data",
+      "formula": null,
+      "namedRange": null
+    },
+    "E8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F8": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G8": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B9": {
+      "value": 12012023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C9": {
+      "value": "2023-01-20T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D9": {
+      "value": "Definition SDV sheet : Modification condition egalité target gear/engaged gear des KD TI downshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "E9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F9": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G9": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B10": {
+      "value": 12012023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C10": {
+      "value": "2023-01-25T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D10": {
+      "value": "Structure sheet : Modification Engine speed et throttle",
+      "formula": null,
+      "namedRange": null
+    },
+    "E10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F10": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G10": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B11": {
+      "value": 26012023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C11": {
+      "value": "2023-01-26T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D11": {
+      "value": "Copie des éléments du 25/01/23 dans cette nouvelle version et adaptation des échelles des graphes.",
+      "formula": null,
+      "namedRange": null
+    },
+    "E11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F11": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G11": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B12": {
+      "value": 27012023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C12": {
+      "value": "2023-01-27T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D12": {
+      "value": "Copie des éléments du 26/01/23 dans cette nouvelle version.\n\najout CVT\n\n'Created Upshift op mode for MT applications\n- added Upshift in SDV-manager\n- configured Upshift in Configuration settings\n- added config for MT for Idle in Configuration settings\n- configured Upshift in Definition SDV\n- configured Upshift in Structure\n\nNettoyage onglet settings",
+      "formula": null,
+      "namedRange": null
+    },
+    "E12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F12": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G12": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B13": {
+      "value": 27012023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C13": {
+      "value": "2023-02-10T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D13": {
+      "value": "optimisation de l'utilisation des custom parameters en les remplacant autant que possible par les voies natives Drive.\nAjout des AD HF et LF dans tous les op modes.",
+      "formula": null,
+      "namedRange": null
+    },
+    "E13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F13": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G13": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B14": {
+      "value": 15022023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C14": {
+      "value": "2023-02-15T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D14": {
+      "value": "Nouvelle version reprenant tous les paramètres de la version du 10/02/23 et corigeant l'affichage des index dans l'onglet Rating.",
+      "formula": null,
+      "namedRange": null
+    },
+    "E14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F14": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G14": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B15": {
+      "value": 15022023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C15": {
+      "value": "2023-02-16T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D15": {
+      "value": "Ajout Mode Manuel dans l'onglet TARGET\nchangement définition SDV pour operation modes \"cold\" inférieur à 65 ald inférieur ou égal à 65\nChangement des définitions SDV Power on et KD TI donwshifts : suppression des notions de couple, groupe et rapport. gardé uniquement la posi pédale pour s'adapter à la nouvelle procédure.\nTARGET : Ajout de critères manquant en Manual gearbox",
+      "formula": null,
+      "namedRange": null
+    },
+    "E15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F15": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G15": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A16": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B16": {
+      "value": 15022023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C16": {
+      "value": "2023-02-17T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D16": {
+      "value": "Création config MHEV pour Coast up et Tip out up\nmodification posi pédale et gearbox temp de lever change et maneuveuring",
+      "formula": null,
+      "namedRange": null
+    },
+    "E16": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F16": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G16": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A17": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B17": {
+      "value": 15022023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C17": {
+      "value": "S12-2023",
+      "formula": null,
+      "namedRange": null
+    },
+    "D17": {
+      "value": "Création des nouvelles SDV et mise en cohérence avec la nouvelle procédure",
+      "formula": null,
+      "namedRange": null
+    },
+    "E17": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F17": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G17": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A18": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B18": {
+      "value": 28032023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C18": {
+      "value": "2023-04-07T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D18": {
+      "value": "Fin de paramétrage des nouvelles SDV et mise en cohérence avec nouvelle procédure",
+      "formula": null,
+      "namedRange": null
+    },
+    "E18": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F18": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G18": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A19": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B19": {
+      "value": 28032023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C19": {
+      "value": "2023-04-13T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D19": {
+      "value": "ajustement des paramètres de mise en cohérence avec nouvelle procédure  et suppression de certaines anciennes SDV inutilisées.",
+      "formula": null,
+      "namedRange": null
+    },
+    "E19": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F19": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G19": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A20": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B20": {
+      "value": 19042023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C20": {
+      "value": "2023-04-20T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D20": {
+      "value": "Transfert des paramètres de la précédente version.",
+      "formula": null,
+      "namedRange": null
+    },
+    "E20": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F20": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G20": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B21": {
+      "value": 19042023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C21": {
+      "value": "2023-04-21T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D21": {
+      "value": "Adaptation pour CVT",
+      "formula": null,
+      "namedRange": null
+    },
+    "E21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F21": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G21": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B22": {
+      "value": 19042023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C22": {
+      "value": "2023-04-26T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D22": {
+      "value": "Suppression vehicle at standstill et mise à jour occurrence en conséquence\nVerification noms des SDV",
+      "formula": null,
+      "namedRange": null
+    },
+    "E22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F22": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G22": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B23": {
+      "value": 27042023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C23": {
+      "value": "2023-04-27T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D23": {
+      "value": "Check de la casse des noms de SDV et Sub SDV dans l'onglet définition SDV",
+      "formula": null,
+      "namedRange": null
+    },
+    "E23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F23": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G23": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B24": {
+      "value": 9052023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C24": {
+      "value": "2023-05-09T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D24": {
+      "value": "import des params du 27/04/23",
+      "formula": null,
+      "namedRange": null
+    },
+    "E24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F24": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G24": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B25": {
+      "value": 9052023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C25": {
+      "value": "2023-05-10T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D25": {
+      "value": "ajustement tg/Wl AD maneuvering with throttle\nModification définition SDV PT/TO kickdown tip in downshifts",
+      "formula": null,
+      "namedRange": null
+    },
+    "E25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F25": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G25": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B26": {
+      "value": 11052023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C26": {
+      "value": "2023-05-17T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D26": {
+      "value": "import des params du 10/05/23",
+      "formula": null,
+      "namedRange": null
+    },
+    "E26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F26": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G26": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B27": {
+      "value": 25052023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C27": {
+      "value": "2023-05-25T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D27": {
+      "value": "import des params du 10/05/23",
+      "formula": null,
+      "namedRange": null
+    },
+    "E27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F27": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G27": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B28": {
+      "value": 25052023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C28": {
+      "value": "2023-05-26T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D28": {
+      "value": "Ajout de targets V4.2 compatibles nouveaux intitulés de SDVs drive aways\nMise à 1 du nb mini d'évènements dans Settings pour être compatible nouveau calcul.",
+      "formula": null,
+      "namedRange": null
+    },
+    "E28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F28": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G28": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B29": {
+      "value": 25052023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C29": {
+      "value": "2023-05-31T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D29": {
+      "value": "Ajustement des labels de certains critères dans Structure pour être concordant avec ASDCA\nSuppression de l'affichage de certains graphes",
+      "formula": null,
+      "namedRange": null
+    },
+    "E29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F29": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G29": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B30": {
+      "value": 25052023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C30": {
+      "value": "2023-06-01T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D30": {
+      "value": "Vérification et correction des occurrences",
+      "formula": null,
+      "namedRange": null
+    },
+    "E30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F30": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G30": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B31": {
+      "value": 25052023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C31": {
+      "value": "2023-06-02T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D31": {
+      "value": "Ajustement des Wl pour accel et cst speed.\nPassage en C3 pour Brake release delay des DASS",
+      "formula": null,
+      "namedRange": null
+    },
+    "E31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F31": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G31": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B32": {
+      "value": 25052023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C32": {
+      "value": "2023-06-06T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D32": {
+      "value": "Passage en C2 pour shift duration tip out upshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "E32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F32": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G32": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B33": {
+      "value": 25052023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C33": {
+      "value": "2023-06-09T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D33": {
+      "value": "Correction configuration settings DAxxxCOM =>DASSxxxCOM pour correspondre à SDV manager",
+      "formula": null,
+      "namedRange": null
+    },
+    "E33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F33": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G33": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A34": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B34": {
+      "value": 12062023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C34": {
+      "value": "2023-06-12T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D34": {
+      "value": "imports des params de la version précédente",
+      "formula": null,
+      "namedRange": null
+    },
+    "E34": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F34": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G34": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A35": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B35": {
+      "value": 14062023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C35": {
+      "value": "2023-06-14T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D35": {
+      "value": "imports des params de la version précédente\nPrise en compte Corrélation CC24 (essentiellement) Target sheet et structure sheet",
+      "formula": null,
+      "namedRange": null
+    },
+    "E35": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F35": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G35": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A36": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B36": {
+      "value": 14062023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C36": {
+      "value": "2023-06-16T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D36": {
+      "value": "ajout cond sub sdv at cst spd accel pour TO ACS pour exclure at deceleration\nprise en compte corrélation eD34",
+      "formula": null,
+      "namedRange": null
+    },
+    "E36": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F36": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G36": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A37": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B37": {
+      "value": 14062023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C37": {
+      "value": "2023-06-22T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D37": {
+      "value": "Chgt du label throttle utilisé dasn les conditions définition SDV pour les maneuvering\nCondition régime pour DASS Eng On Quick à 500 ald 20",
+      "formula": null,
+      "namedRange": null
+    },
+    "E37": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F37": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G37": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B38": {
+      "value": 23062023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C38": {
+      "value": "2023-06-23T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D38": {
+      "value": "debug fonction delete de la database",
+      "formula": null,
+      "namedRange": null
+    },
+    "E38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F38": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G38": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A39": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B39": {
+      "value": 23062023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C39": {
+      "value": "2023-07-07T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D39": {
+      "value": "imports des params de la version précédente\nChgt de la définition SDV des KD TI downshift : Les conditions  Throttle ET couple sont remplacées par Throttle OU couple.\nChgt de titre de 5e colonne dans synthèse feuille SDV : Breakpoints remplace Events\nDébut de prise en compte des données du Cherokee dans l'adaptation des Tg/Wl",
+      "formula": null,
+      "namedRange": null
+    },
+    "E39": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F39": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G39": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A40": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B40": {
+      "value": 23062023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C40": {
+      "value": "2023-08-07T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D40": {
+      "value": "Intégration des analyses de EB du mois de juillet",
+      "formula": null,
+      "namedRange": null
+    },
+    "E40": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F40": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G40": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B41": {
+      "value": 8082023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C41": {
+      "value": "2023-08-08T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D41": {
+      "value": "imports des params de la version précédente",
+      "formula": null,
+      "namedRange": null
+    },
+    "E41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F41": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G41": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B42": {
+      "value": 8082023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C42": {
+      "value": "2023-08-21T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D42": {
+      "value": "Import des Tg & Wl basées sur le cherokee KL",
+      "formula": null,
+      "namedRange": null
+    },
+    "E42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F42": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G42": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B43": {
+      "value": 8082023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C43": {
+      "value": "2023-08-22T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D43": {
+      "value": "Prise en compte des avis subjectifs de Cavan et Stephen sur les DT",
+      "formula": null,
+      "namedRange": null
+    },
+    "E43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F43": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G43": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B44": {
+      "value": 8082023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C44": {
+      "value": "2023-08-23T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D44": {
+      "value": "Prise en compte des avis subjectifs de Cavan et Stephen sur les DT",
+      "formula": null,
+      "namedRange": null
+    },
+    "E44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F44": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G44": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B45": {
+      "value": 8082023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C45": {
+      "value": "2023-09-05T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D45": {
+      "value": "Prise en compte analyse MP",
+      "formula": null,
+      "namedRange": null
+    },
+    "E45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F45": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G45": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B46": {
+      "value": 8082023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C46": {
+      "value": "2023-09-07T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D46": {
+      "value": "Prise en compte analyse Dynamism KL.",
+      "formula": null,
+      "namedRange": null
+    },
+    "E46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F46": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G46": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B47": {
+      "value": 12092023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C47": {
+      "value": "2023-09-14T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D47": {
+      "value": "imports des params de la version précédente",
+      "formula": null,
+      "namedRange": null
+    },
+    "E47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F47": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G47": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B48": {
+      "value": 15092023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C48": {
+      "value": "2023-09-26T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D48": {
+      "value": "Tg & Wl adjust. Based on Erich last analysis results",
+      "formula": null,
+      "namedRange": null
+    },
+    "E48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F48": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G48": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B49": {
+      "value": 27092023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C49": {
+      "value": "2023-09-27T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D49": {
+      "value": "imports des params de la version précédente",
+      "formula": null,
+      "namedRange": null
+    },
+    "E49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F49": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G49": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B50": {
+      "value": 7102023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C50": {
+      "value": "2023-10-07T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D50": {
+      "value": "imports des params de la version précédente",
+      "formula": null,
+      "namedRange": null
+    },
+    "E50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F50": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G50": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B51": {
+      "value": 11102023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C51": {
+      "value": "2023-10-11T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D51": {
+      "value": "imports des params de la version précédente et analyse DJ & D2",
+      "formula": null,
+      "namedRange": null
+    },
+    "E51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F51": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G51": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B52": {
+      "value": 11102023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C52": {
+      "value": "2023-10-13T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D52": {
+      "value": "Changement de la définition des SDV pour éviter les situations Cold en absence de Gearbox temperature valide.Copie d'une partie des Tg/Wl conventionnel vers BEV pour la partie Drivability suite à analyse NIO ET7 et TMY.",
+      "formula": null,
+      "namedRange": null
+    },
+    "E52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F52": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G52": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A53": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B53": {
+      "value": 13102023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C53": {
+      "value": "2023-10-13T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D53": {
+      "value": "imports des params de la version précédente",
+      "formula": null,
+      "namedRange": null
+    },
+    "E53": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F53": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G53": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A54": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B54": {
+      "value": 17102023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C54": {
+      "value": "2023-10-17T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D54": {
+      "value": "imports des params de la version précédente",
+      "formula": null,
+      "namedRange": null
+    },
+    "E54": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F54": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G54": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A55": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B55": {
+      "value": 17102023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C55": {
+      "value": "2023-10-19T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D55": {
+      "value": "Ajout de valeurs par défaut dans Target vehicle. Différentiation de certaines Tg/Wl fct du type de véhicule",
+      "formula": null,
+      "namedRange": null
+    },
+    "E55": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F55": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G55": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A56": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B56": {
+      "value": 2112023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C56": {
+      "value": "2023-11-02T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D56": {
+      "value": "imports des params de la version précédente",
+      "formula": null,
+      "namedRange": null
+    },
+    "E56": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F56": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G56": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A57": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B57": {
+      "value": 2112023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C57": {
+      "value": "2023-11-03T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D57": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E57": {
+      "value": "updated indexes from BMW218d. Graph status corrections and update.Structure changes for Idle with MT.",
+      "formula": null,
+      "namedRange": null
+    },
+    "F57": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G57": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B58": {
+      "value": 2112023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C58": {
+      "value": "2023-11-10T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E58": {
+      "value": "gearbox temp threshold change from 65 to 50",
+      "formula": null,
+      "namedRange": null
+    },
+    "F58": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G58": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B59": {
+      "value": 2112023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C59": {
+      "value": "2023-11-15T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E59": {
+      "value": "Configuration settings changes : no more throttle input for cst speed w/o load and 20% throttle steps for cst speed cst load",
+      "formula": null,
+      "namedRange": null
+    },
+    "F59": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G59": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B60": {
+      "value": 16112023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C60": {
+      "value": "2023-11-16T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D60": {
+      "value": "imports des params de la version précédente",
+      "formula": null,
+      "namedRange": null
+    },
+    "E60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F60": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G60": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B61": {
+      "value": 16112023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C61": {
+      "value": "2023-11-17T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D61": {
+      "value": "Mise en page Définition SDV, ajout colonnes pour les KD TI downshifts pour connaitre les valeurs initiales de pédale et accel, chgt des définitons pour ces mêmes SDV",
+      "formula": null,
+      "namedRange": null
+    },
+    "E61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F61": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G61": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B62": {
+      "value": 16112023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C62": {
+      "value": "2023-12-05T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E62": {
+      "value": "update of rating sheet bargraphs",
+      "formula": null,
+      "namedRange": null
+    },
+    "F62": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G62": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B63": {
+      "value": 16112023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C63": {
+      "value": "2023-12-07T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D63": {
+      "value": "création d'un nouveau powertrain xHEV-eAT et renommage de xHEV en xHEV-eDCT",
+      "formula": null,
+      "namedRange": null
+    },
+    "E63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F63": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G63": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B64": {
+      "value": 15122023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C64": {
+      "value": "2023-12-15T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D64": {
+      "value": "Targets : Ajustement DASS recopie des valeurs AUTO ENG ON",
+      "formula": null,
+      "namedRange": null
+    },
+    "E64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F64": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G64": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B65": {
+      "value": 15122023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C65": {
+      "value": "2023-12-19T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D65": {
+      "value": "onglet TARGETS : ajout mode Normal",
+      "formula": null,
+      "namedRange": null
+    },
+    "E65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F65": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G65": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B66": {
+      "value": 15122023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C66": {
+      "value": "2023-12-20T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E66": {
+      "value": "Targets : Tip out upshifts & TI AD adjust. Based on GA",
+      "formula": null,
+      "namedRange": null
+    },
+    "F66": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G66": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B67": {
+      "value": 15122023,
+      "formula": null,
+      "namedRange": null
+    },
+    "C67": {
+      "value": "2024-01-05T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E67": {
+      "value": "MT configuration modification",
+      "formula": null,
+      "namedRange": null
+    },
+    "F67": {
+      "value": "EB",
+      "formula": null,
+      "namedRange": null
+    },
+    "G67": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B68": {
+      "value": 16012024,
+      "formula": null,
+      "namedRange": null
+    },
+    "C68": {
+      "value": "2024-01-17T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D68": {
+      "value": "Renseignement des coordonnées utilisateurs suite à ajout de la colonne département",
+      "formula": null,
+      "namedRange": null
+    },
+    "E68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F68": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G68": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B69": {
+      "value": 18012024,
+      "formula": null,
+      "namedRange": null
+    },
+    "C69": {
+      "value": "2024-01-19T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D69": {
+      "value": "Version production. Ajustement des echelles d'index des graphes de la page Rating. Adaptation aux powertrain xHEV",
+      "formula": null,
+      "namedRange": null
+    },
+    "E69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F69": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G69": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B70": {
+      "value": 18012024,
+      "formula": null,
+      "namedRange": null
+    },
+    "C70": {
+      "value": "2024-01-29T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D70": {
+      "value": "Ajustement des graphes",
+      "formula": null,
+      "namedRange": null
+    },
+    "E70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F70": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G70": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A71": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B71": {
+      "value": 18012024,
+      "formula": null,
+      "namedRange": null
+    },
+    "C71": {
+      "value": "2024-03-01T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D71": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E71": {
+      "value": "Updated the tab UTILISATEURS\nIn DEFINITION SDV updated the detection settings for DASS Eng On, DASS - Eng Off - COM and DASS - Extended Eng Off",
+      "formula": null,
+      "namedRange": null
+    },
+    "F71": {
+      "value": "EB",
+      "formula": null,
+      "namedRange": null
+    },
+    "G71": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A72": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B72": {
+      "value": 18032024,
+      "formula": null,
+      "namedRange": null
+    },
+    "C72": {
+      "value": "2024-03-26T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D72": {
+      "value": "Changement de version : correction de bugs mineurs\nSettings : Minoration des coefs cold /10.\nAjustements paramètres graphes\nAjustements des conditions pour la température BV et pour les DASS COM et EXT dans définition SDV",
+      "formula": null,
+      "namedRange": null
+    },
+    "E72": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F72": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G72": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A73": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B73": {
+      "value": 18032024,
+      "formula": null,
+      "namedRange": null
+    },
+    "C73": {
+      "value": "2024-04-04T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D73": {
+      "value": "j'ai ajouter le vehicule P8 MHEV MDL2 dans le TARGET vehicule",
+      "formula": null,
+      "namedRange": null
+    },
+    "E73": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F73": {
+      "value": "EP",
+      "formula": null,
+      "namedRange": null
+    },
+    "G73": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A74": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B74": {
+      "value": 26062024,
+      "formula": null,
+      "namedRange": null
+    },
+    "C74": {
+      "value": "2024-07-09T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D74": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E74": {
+      "value": "New functionalities:\nSet as target button\nColor markers sorted in the graphs\nminor bug correction",
+      "formula": null,
+      "namedRange": null
+    },
+    "F74": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G74": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A75": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B75": {
+      "value": 26062024,
+      "formula": null,
+      "namedRange": null
+    },
+    "C75": {
+      "value": "17/17/24",
+      "formula": null,
+      "namedRange": null
+    },
+    "D75": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E75": {
+      "value": "Updated link to database in CFG tab",
+      "formula": null,
+      "namedRange": null
+    },
+    "F75": {
+      "value": "EB",
+      "formula": null,
+      "namedRange": null
+    },
+    "G75": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A76": {
+      "value": "V28.0.1",
+      "formula": null,
+      "namedRange": null
+    },
+    "B76": {
+      "value": 26062024,
+      "formula": null,
+      "namedRange": null
+    },
+    "C76": {
+      "value": "2025-02-20T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D76": {
+      "value": "Ajout des nouveaux véhicules cibles BEV, suppression des anciens dont config de mesures obsolete.\nSuppression d'une partie des anciens software milestones xP. \nSuppression des Paramètres V3.8 et V4.0\nPassage de Acceleration Peak en C3 pour DASS (BEV).\nAcceleration load increase Tg & Wl adjustment\nAuto start vehicle moving Tg & Wl criticalities adjustments\nAccel cst load cold alignment on Accel cst load\nDecel cst brake Tg & Wl adjustment\nIdle vehicle stationary Wl adjustment\nPower on downshift Shock WL adjustment\nCst speed cst load Wl adjustment\nAjustement de quelques echelles\nAjout de response delay (sec) dans structure\nAjout dossier database 2025",
+      "formula": null,
+      "namedRange": null
+    },
+    "E76": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F76": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G76": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A77": {
+      "value": "V28.0.2",
+      "formula": null,
+      "namedRange": null
+    },
+    "B77": {
+      "value": 26062024,
+      "formula": null,
+      "namedRange": null
+    },
+    "C77": {
+      "value": "2025-03-21T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D77": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E77": {
+      "value": "MT: updated priority distribution. Updated WL&T for Drive away and Gear shift",
+      "formula": null,
+      "namedRange": null
+    },
+    "F77": {
+      "value": "EB",
+      "formula": null,
+      "namedRange": null
+    },
+    "G77": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A78": {
+      "value": "V28.0.3",
+      "formula": null,
+      "namedRange": null
+    },
+    "B78": {
+      "value": "08042025",
+      "formula": null,
+      "namedRange": null
+    },
+    "C78": {
+      "value": "2025-03-21T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D78": {
+      "value": "Correction bug ajout sdv et absence target vehicle",
+      "formula": null,
+      "namedRange": null
+    },
+    "E78": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F78": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G78": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A79": {
+      "value": "V28.0.4",
+      "formula": null,
+      "namedRange": null
+    },
+    "B79": {
+      "value": "2025-04-24T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "C79": {
+      "value": "2025-05-27T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D79": {
+      "value": "Target vehicle manquant : ajustement du comportement du bouton \"Non\" (arrêt du calcul avec message explicite).\nNote globale dans \"RATING\" : correction des références erronées vers \"Graph_status\".\nAffichage des marqueurs SDV : correction pour les courbes DASS concernées. \nIntégration CR PPT pour Test.\nAjout explications dans la page Rating\nMT : Correction des configurations idle vehicle stationary et air cond ON Off; Ajout de la SDV downshift",
+      "formula": null,
+      "namedRange": null
+    },
+    "E79": {
+      "value": "Missing target vehicle: Adjusted the behavior of the \"No\" button (stops the calculation with an explicit message).\nOverall rating in \"RATING\": Fixed erroneous references to \"Graph_status\".\nSDV marker display: Fixed the affected DASS curves.\nPPT CR integration for Test.\nExplanations added to the Rating page.\nMT : Update Config settings for Idle Vehicle Stationary; Update for Idle Vehicle Stationary and Idle Air Cond On-Off in tab \"Powertrain\", adding \"downshift opmode\"",
+      "formula": null,
+      "namedRange": null
+    },
+    "F79": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G79": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A80": {
+      "value": "V28.0.5",
+      "formula": null,
+      "namedRange": null
+    },
+    "B80": {
+      "value": "2025-06-11T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "C80": {
+      "value": "2025-06-11T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D80": {
+      "value": "Correction calcul SOPM status\ntaille des points dans la page Rating\nTous les états jalons calculés avec les seuils SOPM 'milestone 4'\nDésactivation d'un graphe non utilisé pour 'trans decel to cst spd'",
+      "formula": null,
+      "namedRange": null
+    },
+    "E80": {
+      "value": "SOPM status calculation correction\nIncreased dot size in the Rating page\nAll milestone status calculated with SOPM thresholds 'milestone 4'\nDisabled an unused graph for 'trans decel to cst spd'",
+      "formula": null,
+      "namedRange": null
+    },
+    "F80": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G80": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A81": {
+      "value": "V28.0.6",
+      "formula": null,
+      "namedRange": null
+    },
+    "B81": {
+      "value": "2025-07-09T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "C81": {
+      "value": "2025-06-11T00:00:00",
+      "formula": null,
+      "namedRange": null
+    },
+    "D81": {
+      "value": "Nouveau titre et correction grammaticale de la page Rating. Nouvelle version de test du CR PPTx",
+      "formula": null,
+      "namedRange": null
+    },
+    "E81": {
+      "value": "New wording on the Rating sheet and new test version of the PPTx report",
+      "formula": null,
+      "namedRange": null
+    },
+    "F81": {
+      "value": "SG",
+      "formula": null,
+      "namedRange": null
+    },
+    "G81": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "A82": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "B82": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "C82": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "D82": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "E82": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "F82": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    },
+    "G82": {
+      "value": null,
+      "formula": null,
+      "namedRange": null
+    }
+  },
+  "charts": []
+}
